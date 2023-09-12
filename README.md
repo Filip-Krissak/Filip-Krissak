@@ -23,4 +23,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=filip-krissak&show_icons=true&locale=en" alt="filip-krissak" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=filip-krissak&" alt="filip-krissak" /></p>
